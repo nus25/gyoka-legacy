@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository will be public archived by early Nov. 2026
+
 # Gyoka
 
 Gyoka is an edge service for Bluesky custom feed generators.
