@@ -1,5 +1,7 @@
 > [!IMPORTANT]
-> This repository will be public archived by early Nov. 2026
+> This repository is archived old Gyoka v0.x
+> 
+> See new [Gyoka](https://github.com/nus25/gyoka) v1 repository
 
 # Gyoka
 
